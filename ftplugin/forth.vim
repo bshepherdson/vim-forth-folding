@@ -34,7 +34,6 @@ endfunction
 
 
 setlocal foldnestmax=1
-setlocal foldminlines=0
 setlocal foldmethod=expr
 setlocal foldexpr=ForthFolds()
 setlocal foldtext=ForthFoldText()
